@@ -1,0 +1,75 @@
+table{
+    background-color:rgb(52, 148, 231);
+
+}
+
+thead{
+    background-color: rgb(52, 148, 231);
+
+}
+
+
+tr:hover{
+    background-color: rgb(252, 252, 169);
+    color: rgb(147, 231, 52);
+}
+
+.footer{
+    background-color: rgb(187, 214, 255);
+    width: 100%;
+    padding: 10px;
+    border-radius: 0px;
+    height: 100px;
+
+}
+div.container{
+    position:static;
+    
+}
+.hero-image{
+    background-image: url(/weather.gif);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: auto;
+    position: relative;
+
+}
+
+.text22{
+    font-family: 'Times New Roman', Times, serif;
+    animation-name: initial;
+    color: rgb(223,223, 223);
+    text-decoration: solid;
+   
+}
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+
+  }
+a+a{
+    margin-left: 80px;
+}
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-instagram {
+    
+    color: rgb(243, 75, 75);
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+.text2{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: black;
+
+}
